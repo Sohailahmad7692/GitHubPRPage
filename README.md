@@ -20,12 +20,15 @@ src/
 │   ├── PRContent.tsx
 │   ├── PRSidebar.tsx
 │   ├── PRTimeline.tsx
+│   ├── PullRequestSideBar.tsx
+│   ├── PullRequestTab.tsx
 │   ├── RepoHeader.tsx
-│   └── RepoNavigation.tsx
+│   ├── RepoNavigation.tsx
+│   └── SignUpBanner.tsx
 ├── context/
 │   └── ThemeContext.tsx # Theme management
 ├── utils/
-│   └── themeUtils.ts    # Theme-related utilities
+│   └── ThemeUtils.ts    # Theme-related utilities
 ├── App.tsx              # App entry point
 └── index.tsx            # React entry point
 ```
